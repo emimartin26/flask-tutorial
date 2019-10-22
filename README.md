@@ -3,7 +3,7 @@ App Flask Oficial Tutorial
 
 https://flask.palletsprojects.com/en/1.1.x/tutorial/
  
-## How to use this template 
+## Usage
 
 - Create your virtualenv
 - `git clone https://github.com/emimartin26/flask-tutorial PROJECTNAME`

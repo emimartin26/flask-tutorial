@@ -12,5 +12,10 @@ https://flask.palletsprojects.com/en/1.1.x/tutorial/
 - `pip install -r requirements.txt`
 - `flask run`
 
+## Tests
+- pytest
+- coverage run -m pytest
+
+
 ## License
 Licensed under the MIT license. See the bundled LICENSE file for more details.
